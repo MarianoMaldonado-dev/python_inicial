@@ -38,4 +38,3 @@ Este proyecto está bajo la Licencia GPL3.
 
 ## Fuente de la información del curso
 [Santander Open Academy](https://www.santanderopenacademy.com/es/index.html)
-(Santander Open Academy)[https://www.santanderopenacademy.com/es/index.html]
